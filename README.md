@@ -11,4 +11,4 @@
 - Evaluación de los efectos del cambio de la regla sobre las expectitivas de los agentes del mercado en Chile en base a la encuesta EEE.
 
 El repositorio cuenta con archivos de jupyther notebook, además de algunos .py que contienen scripts para webscrapping y clases. También se incluyen los .do de STATA.
-En python se utilizan librearias numpy, pandas, matplotlib scikit-learn, spacy y nltk. 
+En python se utilizan librearias selenium, BeautifulSoup numpy, pandas, matplotlib scikit-learn, spacy y nltk. 
